@@ -1,0 +1,17 @@
+
+
+.gpt3__brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.gpt3__brand div {
+    display: flex;
+    min-width: 120px;
+    max-width: 150px;
+    justify-content: center;
+    align-items: center;
+}
